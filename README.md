@@ -4,7 +4,7 @@ Este repositorio fue creado para contener un sitio diseñado meramente con fines
 
 ---
 
-### 💡 Sobre el proyecto
+### Sobre el proyecto
 La idea detrás de este sitio no es solo demostrar mi trabajo en redacción o criterio periodístico, sino también poner en práctica mis habilidades técnicas y mi curiosidad por el funcionamiento de las herramientas digitales.
 Busco presentar mi perfil de una forma diferente, más creativa y menos convencional. Me divertí haciéndolo.
 
@@ -12,7 +12,7 @@ El sitio fue desarrollado utilizando **HTML, CSS y GitHub Pages** como herramien
 
 ---
 
-### ✍🏼 Sobre mí
+### Sobre mí
 Comunicadora con foco en tecnología e impacto social.
 Transmitir ideas y generar conocimiento es parte de mi manera de estar en el mundo.
 
